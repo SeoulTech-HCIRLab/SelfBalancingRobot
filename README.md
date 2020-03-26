@@ -27,6 +27,16 @@ RolyPoly model is Newly desinged model to reduce complexity and i use this model
 ### Implementation result
 https://www.youtube.com/watch?v=zNuGCi0jJcc
 
+## References
+Kalanfilter
+
+https://github.com/TKJElectronics/KalmanFilter
+https://github.com/prozoroff/UKFSharp
+
+PID
+
+http://scipia.co.kr/blog/227
+
 ## Contect
 
 titania7777@seoultech.ac.kr or titania7777@gmail.com
