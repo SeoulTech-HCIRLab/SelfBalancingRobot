@@ -28,6 +28,7 @@ public class RolyPoly : Agent
         if (angle_z <= 360.0f && angle_z >= 270.0f) { angle_z -= 360.0f; }
 
         sensor.AddObservation(angle_z);
+        sensor.AddObservation(rolypoly.angularVelocity.z);
     }
 
     public override float[] Heuristic()
