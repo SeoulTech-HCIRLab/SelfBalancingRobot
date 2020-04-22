@@ -1,7 +1,7 @@
 # Self-Balancing-Robot
 Implementation of Self Balancing Robot with ML-Agents
 
-RolyPoly model is Newly desinged model to reduce complexity of the environment and i use this model to implement the balance robot on real world.
+RolyPoly model is Newly desinged model to reduce complexity in environment and i use this model to implement the balance robot on real world.
 
 ## RolyPoly Model
 <img align="center" src="figures/RolyPolyModelTest.gif" width="750">
