@@ -1,7 +1,7 @@
-# Self-Balancing-Robot
+# Self-Balancing-Robot(Very Simple !!)
 Implementation of Self Balancing Robot with ML-Agents
 
-RolyPoly model is Newly desinged model to reduce complexity in environment and i use this model to implement the balance robot on real world.
+The RolyPoly model is Newly desinged model to reduce complexity in environment and i will use this model to implement a balancing robot on real world.
 
 ## RolyPoly Model
 <img align="center" src="figures/RolyPolyModelTest.gif" width="750">
@@ -11,14 +11,14 @@ RolyPoly model is Newly desinged model to reduce complexity in environment and i
 
 ## Usage
 ### train
-1. import Assets in your unity.
+1. import Assets in your unity workspace.
 2. build the RolyPoly scenes and train with default option.
 ### test model
-1. import Assets in your unity.
+1. import Assets in your unity workspace.
 2. select the RolyPolyModeltest scenes and start the game
 ### test real
-1. import Assets in your unity.
-2. select the RolyPolyRealtest scenes and start the game (please don't forget the upload the firmware and connect to arduino)
+1. import Assets in your unity workspace.
+2. select the RolyPolyRealtest scenes and start the game (please don't forget the upload firmware on the ardino and connect to arduino)
 
 ## Results
 ### training result
@@ -28,16 +28,16 @@ RolyPoly model is Newly desinged model to reduce complexity in environment and i
 https://www.youtube.com/watch?v=zNuGCi0jJcc
 
 ## References
-Kalmanfilter
+Kalmanfilter original code here
 
 https://github.com/TKJElectronics/KalmanFilter
 
 https://github.com/prozoroff/UKFSharp
 
-PID
+PID original code here
 
 http://scipia.co.kr/blog/227
 
-## Contect
+## Contact
 
 titania7777@seoultech.ac.kr or titania7777@gmail.com
