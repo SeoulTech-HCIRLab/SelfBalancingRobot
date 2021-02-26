@@ -1,4 +1,4 @@
-# The clone version repository of [Self-Balancing Robot](https://github.com/titania7777/SelfBalancingRobot))
+# The clone version repository of [Self-Balancing Robot](https://github.com/titania7777/SelfBalancingRobot)
 
 Implementation of Self Balancing Robot with ML-Agents.
 
